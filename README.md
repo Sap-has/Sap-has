@@ -3,11 +3,11 @@ I'm a passionate Computer Science student with a keen interest in software engin
 
 ## 💻 Full-Stack Development & Web Technologies
 * Webmaster for UTEP Career Center:
-  ** Developed and maintained user-friendly web pages, including the Early College and Internship Team pages, improving accessibility for students.
-  ** Enhanced scalability and performance of existing codebases.
-  ** Gained hands-on experience in front-end (ReactJS, JavaScript) and back-end (Node.js, Express) development.
+  * Developed and maintained user-friendly web pages, including the Early College and Internship Team pages, improving accessibility for students.
+  * Enhanced scalability and performance of existing codebases.
+  * Gained hands-on experience in front-end (ReactJS, JavaScript) and back-end (Node.js, Express) development.
 * CodePath Web Development Participant:
-  ** Built interactive web applications using ReactJS, integrating third-party APIs and creating robust data pipelines.
+ * Built interactive web applications using ReactJS, integrating third-party APIs and creating robust data pipelines.
 
 ## 🔢 Parallel Computing & IoT
 * Completed the NVIDIA CUDA Introduction Course, gaining skills in GPU acceleration for computationally intensive tasks.
