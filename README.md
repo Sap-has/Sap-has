@@ -2,17 +2,17 @@
 I'm a passionate Computer Science student with a keen interest in software engineering, IoT, data pipelines, and energy management systems. Here's a glimpse into my journey and contributions:
 
 ## 💻 Full-Stack Development & Web Technologies
-Webmaster for UTEP Career Center:
-  Developed and maintained user-friendly web pages, including the Early College and Internship Team pages, improving accessibility for students.
-  Enhanced scalability and performance of existing codebases.
-  Gained hands-on experience in front-end (ReactJS, JavaScript) and back-end (Node.js, Express) development.
-CodePath Web Development Participant:
-  Built interactive web applications using ReactJS, integrating third-party APIs and creating robust data pipelines.
+* Webmaster for UTEP Career Center:
+  ** Developed and maintained user-friendly web pages, including the Early College and Internship Team pages, improving accessibility for students.
+  ** Enhanced scalability and performance of existing codebases.
+  ** Gained hands-on experience in front-end (ReactJS, JavaScript) and back-end (Node.js, Express) development.
+* CodePath Web Development Participant:
+  ** Built interactive web applications using ReactJS, integrating third-party APIs and creating robust data pipelines.
 
 ## 🔢 Parallel Computing & IoT
-Completed the NVIDIA CUDA Introduction Course, gaining skills in GPU acceleration for computationally intensive tasks.
-Developed Arduino-based projects:
-  Connected an IR remote and PS4 controller to a PC, utilizing Python for signal interpretation and real-time action mapping.
+* Completed the NVIDIA CUDA Introduction Course, gaining skills in GPU acceleration for computationally intensive tasks.
+* Developed Arduino-based projects:
+  ** Connected an IR remote and PS4 controller to a PC, utilizing Python for signal interpretation and real-time action mapping.
 
 ## 🤖 Artificial Intelligence & Data Engineering
 Built a neural network in Python for matrix-based letter recognition, solidifying my foundation in machine learning.
