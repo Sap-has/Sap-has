@@ -15,22 +15,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 Web Development Enthusiast
+# 💻 Web Development Enthusiast
 I'm also working as a Webmaster for the Career Center at UTEP, where I manage and maintain the website to help students navigate their career paths. I’m honing my skills in frontend and backend development, especially through my involvement with CodePath's Web 102 course, where I learned essential web development tools and techniques.
 
-🔢 Parallel Computing & CUDA
+# 🔢 Parallel Computing & CUDA
 Parallel computing has piqued my interest, and I recently completed the NVIDIA CUDA Introduction Course, learning how to leverage GPU acceleration for complex computations.
 
-🤖 AI & Machine Learning
+# 🤖 AI & Machine Learning
 In the realm of AI, I built a neural network in Python to detect letters represented in matrix form. This hands-on project strengthened my foundation in machine learning. I also had the incredible opportunity to join the AI4ALL and CyberSecurity Camp at UTEP in the summer of 2023, where I explored the intersections of AI and cybersecurity.
 
-🌐 Connect with Me
+# 🌐 Connect with Me
 Feel free to check out some of my projects below, or reach out if you'd like to collaborate!
 
 ## Hi there 👋 I'm Epifanio Sarinana
 I'm a passionate Computer Science student with a keen interest in software engineering, IoT, data pipelines, and energy management systems. Here's a glimpse into my journey and contributions:
 
-💻 Full-Stack Development & Web Technologies
+# 💻 Full-Stack Development & Web Technologies
 Webmaster for UTEP Career Center:
   Developed and maintained user-friendly web pages, including the Early College and Internship Team pages, improving accessibility for students.
   Enhanced scalability and performance of existing codebases.
@@ -38,27 +38,27 @@ Webmaster for UTEP Career Center:
 CodePath Web Development Participant:
   Built interactive web applications using ReactJS, integrating third-party APIs and creating robust data pipelines.
 
-🔢 Parallel Computing & IoT
+# 🔢 Parallel Computing & IoT
 Completed the NVIDIA CUDA Introduction Course, gaining skills in GPU acceleration for computationally intensive tasks.
 Developed Arduino-based projects:
   Connected an IR remote and PS4 controller to a PC, utilizing Python for signal interpretation and real-time action mapping.
 
-🤖 Artificial Intelligence & Data Engineering
+# 🤖 Artificial Intelligence & Data Engineering
 Built a neural network in Python for matrix-based letter recognition, solidifying my foundation in machine learning.
 Participated in the AI4ALL and Cybersecurity Camp at UTEP, where I explored AI applications in security and learned about data manipulation pipelines.
 
-🌍 Energy Management and Smart Systems
+# 🌍 Energy Management and Smart Systems
 Designed and implemented a Maze Solver project using depth-first search and graph algorithms, demonstrating problem-solving and optimization skills.
 Developed a Task Reminder Chrome Extension:
   Created RESTful APIs for data management.
   Leveraged MongoDB for task synchronization across devices, an approach applicable to sensor data pipelines.
 
-⚙️ Skills & Tools
+# ⚙️ Skills & Tools
 Languages: Python, JavaScript, ReactJS, Java, Node.js, HTML, CSS
 Tools: Git, MongoDB, RESTful APIs
 Frameworks: Express, Chrome Extension API
 Certifications: IT Specialist (Java)
 Bilingual: Fluent in Spanish and English
 
-🌐 Connect with Me
+# 🌐 Connect with Me
 Explore my projects below, or feel free to connect for collaboration opportunities!
