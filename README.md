@@ -9,6 +9,12 @@ I'm a passionate Computer Science student with a keen interest in software engin
 * CodePath Web Development Participant:
   * Built interactive web applications using ReactJS, integrating third-party APIs and creating robust data pipelines.
 
+## 📱 Mobile App Development  
+I specialize in building **cross-platform** and **native** mobile applications, leveraging:  
+- **Flutter & Dart** for beautiful, performant, and scalable apps.  
+- **Android (Kotlin)** for native Android development.  
+- **Firebase & REST APIs** for backend integration and real-time data sync.
+
 ## 🔢 Parallel Computing & IoT
 * Completed the NVIDIA CUDA Introduction Course, gaining skills in GPU acceleration for computationally intensive tasks.
 * Developed Arduino-based projects:
