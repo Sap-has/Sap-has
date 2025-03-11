@@ -1,41 +1,50 @@
-# Hi there 👋 I'm Epifanio Sarinana
-I'm a passionate Computer Science student with a keen interest in software engineering, IoT, data pipelines, and energy management systems. Here's a glimpse into my journey and contributions:
+# Hi there, I'm Epifanio Sarinana (Sap-has) 👋
 
-## 💻 Full-Stack Development & Web Technologies
-* Webmaster for UTEP Career Center:
-  * Developed and maintained user-friendly web pages, including the Early College and Internship Team pages, improving accessibility for students.
-  * Enhanced scalability and performance of existing codebases.
-  * Gained hands-on experience in front-end (ReactJS, JavaScript) and back-end (Node.js, Express) development.
-* CodePath Web Development Participant:
-  * Built interactive web applications using ReactJS, integrating third-party APIs and creating robust data pipelines.
+I'm a passionate Computer Science student with interests spanning from full-stack web development to high-performance computing and machine learning.
 
-## 📱 Mobile App Development  
-I specialize in building **cross-platform** and **native** mobile applications, leveraging:  
-- **Flutter & Dart** for beautiful, performant, and scalable apps.  
-- **Android (Kotlin)** for native Android development.  
-- **Firebase & REST APIs** for backend integration and real-time data sync.
+---
 
-## 🔢 Parallel Computing & IoT
-* Completed the NVIDIA CUDA Introduction Course, gaining skills in GPU acceleration for computationally intensive tasks.
-* Developed Arduino-based projects:
-  * Connected an IR remote and PS4 controller to a PC, utilizing Python for signal interpretation and real-time action mapping.
+## 🚀 About Me
 
-## 🤖 Artificial Intelligence & Data Engineering
-Built a neural network in Python for matrix-based letter recognition, solidifying my foundation in machine learning.
-Participated in the AI4ALL and Cybersecurity Camp at UTEP, where I explored AI applications in security and learned about data manipulation pipelines.
+- **Programming Languages:**
+  - **Java:** Experienced in building robust applications using core Java along with frameworks such as **Spring Boot** and **Thymeleaf**.
+  - **Python:** Skilled with libraries and tools like **PyQt5** (for GUI development), **numpy** and **sklearn** for data science, and leveraging **CUDA** for accelerated computing.
+  - **C/C++ & CUDA:** Proficient in low-level programming and parallel computing, with hands-on projects in CUDA for performance-critical applications.
+  - **Web Technologies:** Proficient in **HTML**, **CSS**, **JavaScript** and modern frameworks like **React**.
+  - **Mobile & Cross-Platform:** Experienced with **Dart** and **Flutter** for building sleek, responsive mobile applications.
 
-## 🌍 Energy Management and Smart Systems
-* Designed and implemented a Maze Solver project using depth-first search and graph algorithms, demonstrating problem-solving and optimization skills.
-* Developed a Task Reminder Chrome Extension:
-  * Created RESTful APIs for data management.
-  * Leveraged MongoDB for task synchronization across devices, an approach applicable to sensor data pipelines.
+- **Interests:**  
+  Parallel computing, machine learning, IoT, energy management systems, and innovative web solutions.
+
+## 💡 Skills & Technologies
+
+### Java & Frameworks
+- Core Java, Spring Boot, Thymeleaf, and other related libraries.
+- Focus on building scalable and maintainable enterprise applications.
+
+### Python & Scientific Computing
+- **PyQt5** for creating interactive GUI applications.
+- **numpy** and **sklearn** for data manipulation and machine learning.
+- Utilizing **CUDA** for GPU acceleration and high-performance computing tasks.
+- Built a neural network in Python for matrix-based letter recognition, solidifying my foundation in machine learning.
+- Participated in the AI4ALL and Cybersecurity Camp at UTEP, where I explored AI applications in security and learned about data manipulation pipelines.
+
+### C/C++ & CUDA
+- Completed the NVIDIA CUDA Introduction Course, gaining skills in GPU acceleration for computationally intensive tasks.
+- Low-level programming, memory management, and performance optimization.
+- Implementing parallel algorithms using CUDA for enhanced computation speed.
+
+### Web Development
+- **Frontend:** HTML, CSS, JavaScript, React.
+- **Backend:** Node.js and RESTful API development.
+- Creating responsive and dynamic web applications.
+
+### Mobile & Cross-Platform Development
+- **Dart & Flutter:** Developing cross-platform mobile applications with a focus on clean UI and smooth performance.
 
 ## ⚙️ Skills & Tools
-* Languages: Python, JavaScript, ReactJS, Java, Node.js, HTML, CSS
+* Languages: Python, JavaScript, ReactJS, Java, Node.js, HTML, CSS, C, C++, CUDA
 * Tools: Git, MongoDB, RESTful APIs
-* Frameworks: Express, Chrome Extension API
+* Frameworks: Express, Chrome Extension API, SprintBoot
 * Certifications: IT Specialist (Java)
 * Bilingual: Fluent in Spanish and English
-
-## 🌐 Connect with Me
-Explore my projects below, or feel free to connect for collaboration opportunities!
